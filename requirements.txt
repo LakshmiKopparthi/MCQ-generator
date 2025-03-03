@@ -1,0 +1,8 @@
+Flask
+nltk
+pke
+flashtext
+pywsd
+requests
+gunicorn
+
